@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.sourcelink.json
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\bin\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.exe
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\bin\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.deps.json
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\bin\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\bin\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.dll
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\bin\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.pdb
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.dll
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\refint\CSharp9-TopLevelStatements-Simplicity.dll
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.pdb
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\CSharp9-TopLevelStatements-Simplicity.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\CSharp9-TopLevelStatements-Simplicity\CSharp9-TopLevelStatements-Simplicity\obj\Debug\net8.0\ref\CSharp9-TopLevelStatements-Simplicity.dll
